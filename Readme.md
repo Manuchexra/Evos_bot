@@ -72,15 +72,6 @@ Keyin botni ishga tushiring:
 
 python bot.py
 
-📂 Loyihaning tuzilmasi
-EvosBot/
-├── bot.py              # Asosiy bot kodi
-├── handlers.py         # Xabarlar va logika
-├── keyboards.py        # Tugmalar (menyular)
-├── config.py           # Token sozlamalari
-├── user_data.json      # Foydalanuvchi tili ma'lumotlari
-├── image.png           # EVOS menyu rasmi
-└── requirements.txt    # Kutubxonalar ro'yxati
 
 🌐 Bog‘lanishlar
 
